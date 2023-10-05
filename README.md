@@ -1,3 +1,5 @@
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielseibel1)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielseibel1&exclude_repo=VRTorqueFeedback&hide=html,css,scss,tex,javascript&langs_count=8&layout=donut)
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
